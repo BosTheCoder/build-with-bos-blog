@@ -20,7 +20,7 @@ Some of the APIs I’ve personally used that really capture this quality are:
 * [Twilio API](https://www.twilio.com/docs/usage/api) - A toddler could use it with all the tutorials they have written for it👶.
     
 
-On the other side of things, you can read [Casey’s blog](https://caseymuratori.com/blog_0025) to get a sense of the rabbit hole bad API design can drag you into.… Being on the receiving end of such an API is like trying to save burnt rice by drowning it in sauces to mask the flavour. You know you have little chance of success, but you try it anyway because you’re down bad and it’s your only option.
+On the other side of things, you can read [Casey’s blog](https://caseymuratori.com/blog_0025) or this [reddit post](https://www.reddit.com/r/webdev/comments/i0rw6h/rant_splitwise_api_is_a_mess/) about Splitwise’s API to get a sense of the rabbit hole bad API design can drag you into.… Being on the receiving end of such an API is like trying to save burnt rice by drowning it in sauces to mask the flavour. You know you have little chance of success, but you try it anyway because you’re down bad and it’s your only option.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1744048911569/cf17c589-0337-46db-9503-aa85f7e1ffb1.png align="center")
 
