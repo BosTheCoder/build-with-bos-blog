@@ -1,14 +1,12 @@
 ---
-title: "Automating Tedious Browser Tasks Using Tampermonkey and ChatGPT"
+title: "Automate Browser Using Tampermonkey and ChatGPT"
 datePublished: Sun May 04 2025 08:09:02 GMT+0000 (Coordinated Universal Time)
 cuid: cma9dejh3000009jv5gyngmb2
-slug: automating-tedious-browser-tasks-using-tampermonkey-and-chatgpt
+slug: automate-browser-using-tampermonkey-and-chatgpt
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746344504266/0f1a0440-23da-4466-9fe9-d1742de564ac.png
 tags: ai, javascript, technology, browsers, automation, userscript, tampermonkey, browser-automation, chatgpt, violentmonkey
 
 ---
-
-> *Automation is cool… but* **Browser** automation is *🤌🏿*
 
 ## Introduction: Why bother tweaking the browser?
 
