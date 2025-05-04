@@ -31,7 +31,7 @@ Real power shows up when either of these is true:
 
 ---
 
-## Potential use-cases (a few that keep me up at night)
+## Potential use-cases
 
 * **Instant download & sideload**
     
@@ -81,7 +81,7 @@ And if you use a good *reasoning* model like **o3** it seems to get to the solut
 
 ---
 
-## Concrete example — NeetCode blind-practice mode 🎯
+## Example: NeetCode blind-practice mode 🎯
 
 I grind coding interviews on [NeetCode.io](https://neetcode.io/), but:
 
