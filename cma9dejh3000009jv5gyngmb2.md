@@ -22,7 +22,9 @@ Yet that’s where I:
 * stare at UIs that are *almost* perfect — but not quite *BosTheCoder-perfect*.
     
 
-Real power shows up when either of these is true:
+Building browser automation would be the perfect solution to these types of problems.
+
+The real power shows up when either of these is true:
 
 1. You visit one page **all the time** and want it to fit your workflow.
     
@@ -32,6 +34,8 @@ Real power shows up when either of these is true:
 ---
 
 ## Potential use-cases
+
+There’s SO MANY different ways I know I could benefit from some sort of Browser Automation. Off the top some that come to mind are:
 
 * **Instant download & sideload**
     
@@ -83,14 +87,15 @@ And if you use a good *reasoning* model like **o3** it seems to get to the solut
 
 ## Example: NeetCode blind-practice mode 🎯
 
-I grind coding interviews on [NeetCode.io](https://neetcode.io/), but:
+As most of my friends and family know, I stay grinding coding interview type questions on [NeetCode.io](https://neetcode.io/)😎 (check out my [last article](https://hashnode.com/post/cma0mxnmm000r09kv53cz9fa8) if you don’t know).  
+It’s a GREAT website don’t get me wrong but there are a few things that I think would enhance my experience, mainly:
 
 * The list shows the **difficulty** (Easy / Medium / Hard).
     
 * Categories shout **“Graphs”, “DP”, “LinkedList”**.
     
 
-Those are hints — I wanted zero signals. Just a shuffled list where every problem is a surprise.
+Those are hints…I wanted zero signals. Just a shuffled list where every problem is a surprise.
 
 In my head an easy solution to this would be to:
 
