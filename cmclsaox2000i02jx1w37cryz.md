@@ -3,6 +3,7 @@ title: "Systematic Prompting in the New Era of Software"
 datePublished: Wed Jul 02 2025 09:58:35 GMT+0000 (Coordinated Universal Time)
 cuid: cmclsaox2000i02jx1w37cryz
 slug: systematic-prompting-in-the-new-era-of-software
+canonical: https://buildwithbos.com/blog/prompting-the-new-age-of-software
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751448531355/175a34a9-9dec-4af3-8168-17e51a305401.png
 tags: optimization, ai, software-development, programming-blogs, system-design, llm, promptengineering, dspy
 
