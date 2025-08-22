@@ -3,6 +3,7 @@ title: "Beyond chatbots: AI that delivers ROI your CFO can see"
 datePublished: Wed Aug 20 2025 00:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmekjkeor000202jpft3k38x6
 slug: beyond-chatbots-ai-that-delivers-roi-your-cfo-can-see
+canonical: https://buildwithbos.com/blog/beyond-chatbots-ai-roi-cfo
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755729234058/281aa57a-a7c7-455f-8ab0-bbf771212747.png
 
 ---
